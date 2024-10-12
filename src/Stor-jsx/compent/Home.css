@@ -1,0 +1,109 @@
+
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+     
+      body {
+        background-color: #000;
+        color: #fff;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+         margin-top:150px ;
+      }
+      
+      
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        margin: 50px auto;
+        padding: 0 20px;
+      }
+      
+      
+      h1 {
+        font-size: 3.5rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+        text-align: left;
+      }
+      
+      h3 {
+        font-size: 4rem;
+        margin-bottom: 10px;
+      }
+      
+      p {
+        font-size: 1rem;
+        margin-top: 10px;
+        color: #aaa;
+      }
+      
+      img {
+        max-width: 100%;
+        margin: 10px;
+        transition: transform 0.3s ease;
+      }
+      
+      img:hover {
+        transform: scale(1.05);
+        cursor: pointer;
+      }
+      
+      .image-grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        max-width: 50%;
+      }
+      
+      .image-grid img {
+        flex: 1 1 calc(33% - 10px);
+        margin: 5px;
+        max-width: 100%;
+      }
+      
+      @media (max-width: 768px) {
+        .container {
+          flex-direction: column;
+          text-align: center;
+        }
+      
+        h1 {
+          font-size: 2.5rem;
+        }
+      
+        .image-grid {
+          max-width: 100%;
+          margin-top: 20px;
+        }
+      }
+      .shop-btn {
+        background: linear-gradient(135deg, #3498db, #2ecc71); /* Gradient background */
+        color: #fff; /* Text color */
+        padding: 12px 24px; /* Button padding */
+        font-size: 16px; /* Font size */
+        font-weight: bold; /* Bold text */
+        border: none; /* Remove borders */
+        border-radius: 30px; /* Rounded corners */
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1); /* Button shadow */
+        cursor: pointer; /* Pointer on hover */
+        transition: all 0.3s ease; /* Smooth transitions */
+      }
+      
+      .shop-btn:hover {
+        background: linear-gradient(135deg, #2ecc71, #3498db); /* Reverse gradient on hover */
+        box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+        transform: translateY(-3px); /* Move button up slightly on hover */
+      }
+      
+      .shop-btn:active {
+        transform: translateY(1px); /* Slight movement when clicked */
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Lower shadow when clicked */
+      }
+      
+      

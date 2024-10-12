@@ -1,0 +1,243 @@
+[
+        {
+            "id": 1,
+            "title": "Classic Running Shoes",
+            "price": "49.99",
+            "description": "Comfortable and durable running shoes for all-day wear.",
+            "category": "running",
+            "image": "https://cdnb.lystit.com/photos/faf3-2014/01/10/nike-black-mens-air-pegasus-30-running-shoes-from-finish-line-product-1-16669463-0-242155602-normal.jpeg",
+            "rating": {
+                "rate": 4.5,
+                "count": 120
+            }
+        },
+        {
+            "id": 2,
+            "title": "Basketball Sneakers",
+            "price": "89.99",
+            "description": "High-top basketball sneakers with excellent ankle support.",
+            "category": "basketball",
+            "image": "https://blog.finishline.com/wp-content/uploads/2021/02/How_To_Buy_Choose_Basketball_Shoes.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 75
+            }
+        },
+        {
+            "id": 3,
+            "title": "Casual Slip-Ons",
+            "price": "39.99",
+            "description": "Stylish slip-on shoes perfect for casual outings.",
+            "category": "casual",
+            "image": "https://th.bing.com/th/id/OIP.SH4R98MK0lHiGyW4SxjJVwHaHa?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.2,
+                "count": 150
+            }
+        },
+        {
+            "id": 4,
+            "title": "Hiking Boots",
+            "price": "109.99",
+            "description": "Rugged hiking boots designed for the toughest terrains.",
+            "category": "hiking",
+            "image": "https://th.bing.com/th/id/OIP.lptERBAbE4QVWinREQH0jAAAAA?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.7,
+                "count": 60
+            }
+        },
+        {
+            "id": 5,
+            "title": "Stylish Sandals",
+            "price": "29.99",
+            "description": "Lightweight and stylish sandals for summer.",
+            "category": "sandals",
+            "image": "https://th.bing.com/th/id/R.3c896390adf94681c4f63dd937279913?rik=9vImlUudy6fyWA&riu=http%3a%2f%2fwww.styleswardrobe.com%2fwp-content%2fuploads%2f2016%2f08%2fSandals-simple.jpg&ehk=oqby%2bXQBEdSngDCjwV92heVA9LYRCpEm1ua6araZZus%3d&risl=&pid=ImgRaw&r=0",
+            "rating": {
+                "rate": 4.3,
+                "count": 90
+            }
+        },
+        {
+            "id": 6,
+            "title": "Running Trail Shoes",
+            "price": "79.99",
+            "description": "Designed for off-road running with excellent grip and support.",
+            "category": "running",
+            "image": "https://th.bing.com/th/id/R.2f5a76e7de5cdccb6bedc622b85b9503?rik=pVxH%2b0uGsvivew&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fshoes-transparent-background%2fshoes-transparent-background-8.png&ehk=7FafOm%2fGGrflLKBAcQfNuot%2bUx6dnjhMaMI7t1GYJ2I%3d&risl=&pid=ImgRaw&r=0",
+            "rating": {
+                "rate": 4.6,
+                "count": 40
+            }
+        },
+        {
+            "id": 7,
+            "title": "High-Top Skate Shoes",
+            "price": "59.99",
+            "description": "Skate shoes with a durable design and good traction.",
+            "category": "skate",
+            "image": "https://th.bing.com/th/id/OIP.GyJCr9lOfzhQlc9tXRXqbgHaHa?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.4,
+                "count": 80
+            }
+        },
+        {
+            "id": 8,
+            "title": "Lightweight Trainers",
+            "price": "54.99",
+            "description": "Perfect for gym workouts, offering comfort and flexibility.",
+            "category": "training",
+            "image": "https://th.bing.com/th/id/OIP.Au_3uTwN1vyD3qsONz290gHaHT?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.3,
+                "count": 95
+            }
+        },
+        {
+            "id": 9,
+            "title": "Waterproof Hiking Shoes",
+            "price": "99.99",
+            "description": "Stay dry with these waterproof hiking shoes.",
+            "category": "hiking",
+            "image": "https://th.bing.com/th/id/R.a48e7bcb1dda65c0a7325142d5acb9ed?rik=kEOz%2fZyUpiRtZQ&pid=ImgRaw&r=0",
+            "rating": {
+                "rate": 4.8,
+                "count": 50
+            }
+        },
+        {
+            "id": 10,
+            "title": "Comfortable Loafers",
+            "price": "34.99",
+            "description": "Easy to wear loafers suitable for both formal and casual settings.",
+            "category": "casual",
+            "image": "https://th.bing.com/th/id/OIP.XBW5Xz1nMB8hii2FDpP_uQHaHa?rs=1&pid=ImgDetMainhttps://example.com/images/loafers.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 200
+            }
+        },
+        {
+            "id": 11,
+            "title": "Elegant Dress Shoes",
+            "price": "79.99",
+            "description": "Stylish dress shoes for formal occasions.",
+            "category": "dress",
+            "image": "https://images.pexels.com/photos/15698299/pexels-photo-15698299/free-photo-of-pair-of-elegant-dress-shoes.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "rating": {
+                "rate": 4.7,
+                "count": 110
+            }
+        },
+        {
+            "id": 12,
+            "title": "Funky Slip-On Sneakers",
+            "price": "39.99",
+            "description": "Fun designs make these slip-on sneakers a must-have.",
+            "category": "casual",
+            "image": "https://i.pinimg.com/originals/ee/d6/f7/eed6f7c2b9b31922c2babf6ec61f7d64.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 70
+            }
+        },
+        {
+            "id": 13,
+            "title": "Professional Soccer Cleats",
+            "price": "129.99",
+            "description": "High-performance cleats for soccer players.",
+            "category": "soccer",
+            "image": "https://th.bing.com/th/id/OIP.LmKqtsL_laBj2cIl9u2ROAAAAA?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.9,
+                "count": 30
+            }
+        },
+        {
+            "id": 14,
+            "title": "Vintage Running Shoes",
+            "price": "64.99",
+            "description": "Classic design running shoes for nostalgia lovers.",
+            "category": "running",
+            "image": "https://www.shoesyourvintage.com/wp-content/uploads/2016/06/ShoesYourVintage32346-585x390.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 140
+            }
+        },
+        {
+            "id": 15,
+            "title": "Chic Ankle Boots",
+            "price": "89.99",
+            "description": "Stylish ankle boots perfect for all seasons.",
+            "category": "boots",
+            "image": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Women-Coda-Black-011422-3.4_1200x1200.jpg?v=1652301362",
+            "rating": {
+                "rate": 4.6,
+                "count": 80
+            }
+        },
+        {
+            "id": 16,
+            "title": "Children's Sneakers",
+            "price": "29.99",
+            "description": "Colorful and durable sneakers for kids.",
+            "category": "children",
+            "image": "https://th.bing.com/th/id/R.0672c93daf4b9df500f2bfb50dfdf0ac?rik=OaK7JdT6nqAz0Q&riu=http%3a%2f%2fg02.a.alicdn.com%2fkf%2fHTB1BbMxHVXXXXcQXpXXq6xXFXXXV%2fHot-Sale-Children-Sneakers-2015-Spring-Girls-Sneakers-Polka-Dot-Kids-Canvas-shoes-Girls-Shoes-Bow.jpg&ehk=7tgW8Am52sZmpTu%2b3RniraR69P5ey6q15PfAoSpJv40%3d&risl=&pid=ImgRaw&r=0",
+            "rating": {
+                "rate": 4.5,
+                "count": 150
+            }
+        },
+        {
+            "id": 17,
+            "title": "Summer Flip-Flops",
+            "price": "14.99",
+            "description": "Comfortable flip-flops for hot summer days.",
+            "category": "sandals",
+            "image": "https://th.bing.com/th/id/OIP.d-ieTr0xWeQTj-56ETXFuwHaEK?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.0,
+                "count": 220
+            }
+        },
+        {
+            "id": 18,
+            "title": "Luxury Formal Shoes",
+            "price": "199.99",
+            "description": "High-end formal shoes made from premium materials.",
+            "category": "dress",
+            "image": "https://th.bing.com/th/id/OIP.6ueBzmBX6LDLMDh9V2-bNQHaHa?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.9,
+                "count": 25
+            }
+        },
+        {
+            "id": 19,
+            "title": "Comfort Walking Shoes",
+            "price": "59.99",
+            "description": "Designed for maximum comfort during long walks.",
+            "category": "walking",
+            "image": "https://th.bing.com/th/id/OIP.YVmF349DjZ-GImuF7TIAkwHaGa?rs=1&pid=ImgDetMain",
+            "rating": {
+                "rate": 4.6,
+                "count": 105
+            }
+        },
+        {
+            "id": 20,
+            "title": "Stylish Platform Shoes",
+            "price": "49.99",
+            "description": "Fashionable platform shoes that elevate any outfit.",
+            "category": "casual",
+            "image": "https://i5.walmartimages.com/asr/451da644-fe9f-40eb-a096-baac5fcfe14a.c05fbfef7574e8ba38c12c63d408c220.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+            "rating": {
+                "rate": 4.4,
+                "count": 90
+            }
+        }
+    ]
+    
