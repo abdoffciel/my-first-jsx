@@ -1,4 +1,4 @@
-// src/Stor-jsx/compent/ListProd.jsx
+
 import { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import './ListProd.css';
@@ -14,7 +14,7 @@ const ListProd = ({ addToCart }) => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch('/data/shoes.json');
+        const response = await fetch('http://localhost:5002/shoes');
         const data = await response.json();
         setProducts(data);
         
@@ -42,11 +42,9 @@ const ListProd = ({ addToCart }) => {
       <h2>Product List</h2>
       {name && lastName && (
         <div>
-          <p>Welcome, {name} {lastName}!</p>
+          <p className="welcome">Welcome {name} {lastName}</p>
         </div>
       )}
-
-      {/* Category Filter */}
       <div className="filter">
         <label htmlFor="category-select">Filter by category:</label>
         <select id="category-select" value={selectedCategory} onChange={handleCategoryChange}>

@@ -15,7 +15,7 @@ export default function Home() {
           <button className="shop-btn" onClick={() => window.location.href = '/Contact'}>Shop Now</button>
         </div>
         <div className="image-grid">
-          <img src={image1} alt="Shoes" />
+          <img  className="image1" src={image1} alt="Shoes" />
         </div>
       </div>
     </div>

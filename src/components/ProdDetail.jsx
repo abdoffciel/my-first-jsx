@@ -1,4 +1,4 @@
-// src/Stor-jsx/compent/ProdDetail.jsx
+
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import './ProdDetail.css';
@@ -11,10 +11,9 @@ const ProdDetail = ({ addToCart }) => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch('/data/shoes.json'); // Path to your local JSON file
+        const response = await fetch('http://localhost:5002/shoes'); 
         const data = await response.json();
         setProducts(data);
-        // Find the product with the matching ID
         const selectedProduct = data.find(item => item.id === parseInt(id));
         setProduct(selectedProduct);
       } catch (error) {
